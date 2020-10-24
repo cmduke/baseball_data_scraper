@@ -11,7 +11,7 @@ Doosan beats LG.
 Kiwoom beats Doosan. -- 
 Kiwoom vs KT is an incredible matchup...  I think I lean KT on that, but I might be "homering" that pick a bit because of Rojas and Hwang... 
 Korean Series then is KT vs. NC... KT's only chance is HOT bats...
-
+Adding a line to test commits, merges etc... Coursera GIT lab.
 
 -----------
 CHANCE
